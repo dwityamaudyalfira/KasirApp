@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KasirApp</string>
+    <string name="selamat_datang">Selamat Datang di KasirApp</string>
+    <string name="content_desc_logo_image">Logo</string>
+    <string name="pendahuluan">Silakan masukkan barang anda:</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="kodebarang_discount">Kode Barang+Discount</string>
+    <string name="kalkulasi">KALKULASI</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="discount">Discount</string>
+    <string name="jumlah_bayar">Jumlah Bayar</string>
+
+    <string name="android">Android</string>
+    <string name="harga_android">Rp 1.000.000,00</string>
+    <string name="apple">Apple</string>
+    <string name="harga_apple">Rp 2.000.000,00</string>
+    <string name="blackberry">Blackberry</string>
+    <string name="harga_blackberry">Rp 1.750.000,00</string>
+    <string name="harga_windowsPhone">Rp 2.500.000,00</string>
+    <string name="windows_phone">Windows Phone</string>
+    <string name="asusRogPhone">ASUS ROG</string>
+    <string name="harga_asusRogPhone">RP 5.000.000,00</string>
+    <string name="barang_tidak_ditemukan">Maaf, barang tidak ditemukan. Silakan cek kembali kode barang anda.</string>
+    <string name="pesan_error">Kode yang anda masukkan tidak berlaku</string>
+</resources>
